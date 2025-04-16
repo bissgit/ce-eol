@@ -1,0 +1,22 @@
+OS/Software-Name, Current-Supported-Version, EOL-Date
+Chrome, 135, May 25
+Edge, 135, May 25
+Firefox, 137, May 25
+Firefox EDR, 121,
+Windows 10 Home/Pro, 22H2 19045, 14 Oct 2025
+Windows 10 Enterprise, 22H2 19045, 14 Oct 2025
+Windows 11 Home/Pro, 23H2 22631, 11 Nov 2025
+Windows 11 Enterprise, 23H2 22631, 10 Nov 2026
+Windows 11 Home/Pro, 24H2 26100, 13 Oct 2026
+Windows 11 Enterprise, 24H2 26100, 12 Oct 2027
+Window Server 2016, 1607 14393, 12 Jan 2027
+Window Server 2019, 1809 17763, 09 Jan 2029
+Window Server 2022, 21H2 20348, 14 Oct 2031
+Windows Server 2025, x, x
+MacOS-Ventura 13, 13.6.7, Sep 24
+MacOS-Sonoma 14, 14.5,
+MacOS-Sequoia 15, 15.3.1,
+iOS/iPad OS 15,	15.8.2,
+iOS/iPad OS 16,	16.7.8,
+iOS/iPadOS 17, 17.5,
+iOS/iPadOS 18, 18.1,

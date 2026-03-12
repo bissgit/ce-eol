@@ -1,10 +1,10 @@
 OS/Software-Name, Current-Supported-Version,Release Date, EOL-Date, Link 
-Chrome, 138, Jul 25,,https://chromereleases.googleblog.com/
-Edge, 138, Jul 25,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel
-Firefox, 141, Jul 25,,https://www.mozilla.org/en-US/firefox/releases/
-Firefox ESR, 128.9.0, Apr 25,,https://www.mozilla.org/en-US/firefox/128.9.0/releasenotes/
-Adobe Reader,25.001.20577,July 25,,https://helpx.adobe.com/uk/acrobat/release-note/release-notes-acrobat-reader.html
-Java,24.02, July 25,,https://www.java.com/releases/
+Chrome, 146, 10 Mar 26,,https://chromereleases.googleblog.com/
+Edge, 145, 08 Mar 26,,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel
+Firefox, 148.0.2, 10 Mar 26,,https://www.mozilla.org/en-US/firefox/releases/
+Firefox ESR, 140.8.0, 24 Feb 26,,https://www.mozilla.org/en-US/firefox/128.9.0/releasenotes/
+Adobe Reader,25.001.21288,10 Mar 26,,https://helpx.adobe.com/uk/acrobat/release-note/release-notes-acrobat-reader.html
+Java,25, Sep 25,,https://www.java.com/releases/
 .Net Core, 8,, 10 Nov 2026,https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core
 .Net Core, 9,, 12 May 2026,https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core
 Office 2016, , , 14 Oct 2025, https://learn.microsoft.com/en-us/microsoft-365-apps/end-of-support/plan-upgrade-older-versions-office#upgrade-from-office-2016-or-office-2019-to-microsoft-365-apps
@@ -23,11 +23,11 @@ Window Server 2016, 1607 14393,, 12 Jan 2027,https://learn.microsoft.com/en-us/l
 Window Server 2019, 1809 17763,, 09 Jan 2029,https://learn.microsoft.com/en-us/lifecycle/products/windows-server-2019
 Window Server 2022, 21H2 20348,, 14 Oct 2031,https://learn.microsoft.com/en-us/lifecycle/products/windows-server-2022
 Windows Server 2025, 24H2,,10 Oct 2034,https://learn.microsoft.com/en-us/lifecycle/products/windows-server-2025
-MacOS-Ventura 13, 13.7.7,29 July 25,,https://support.apple.com/en-gb/106337
-MacOS-Sonoma 14, 14.7.7,29 July 25,,https://developer.apple.com/documentation/macos-release-notes/macos-14-release-notes
-MacOS-Sequoia 15, 15.7.2,04 Nov 25,,https://support.apple.com/en-gb/120283 https://support.apple.com/en-gb/100100
-MscOS-Taho 26,26.1,04 Nov 25,, 
-iOS/iPad OS 16,	16.7.12,29 Seo 25,,https://support.apple.com/en-gb/101566
-iOS/iPadOS 17, 17.7.9,29 July 25,,https://support.apple.com/en-us/121754
-iOS/iPadOS 18, 18.7.2,20 Aug 25,,https://support.apple.com/en-gb/121161 https://support.apple.com/en-gb/100100
-iOS/iPadOS 26, 26.1,04 Nov 25..
+MacOS-Ventura 13, 13.7.8,20 Aug 25,,https://support.apple.com/en-gb/106337
+MacOS-Sonoma 14, 14.8.4,12 Feb 26,,https://developer.apple.com/documentation/macos-release-notes/macos-14-release-notes
+MacOS-Sequoia 15, 15.7.4,11 Feb 26,,https://support.apple.com/en-gb/120283 https://support.apple.com/en-gb/100100
+MacOS-Tahoe 26,26.3.1,04 Mar 26,,
+iOS/iPadOS 16,16.7.15,11 Mar 26,,https://support.apple.com/en-gb/101566
+iOS/iPadOS 17, 17.7.6,Nov 24,,https://support.apple.com/en-us/121754
+iOS/iPadOS 18, 18.7.6,04 Mar 26,,https://support.apple.com/en-gb/121161 https://support.apple.com/en-gb/100100
+iOS/iPadOS 26, 26.3.1,04 Mar 26,,
